@@ -1,3 +1,7 @@
+"""
+    Calculate area and perimeter circle
+"""
+
 import math
 
 class Circle:

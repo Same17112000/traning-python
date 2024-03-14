@@ -9,7 +9,7 @@ class Bird:
  
 class sparrow(Bird):
    
-    def flight1(self):
+    def flight(self):
         print("Sparrows can fly.")
  
 class ostrich(Bird):

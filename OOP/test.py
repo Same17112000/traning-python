@@ -24,7 +24,7 @@
 
 #/////////////reverse string//////////////////////
 # # def reverse(input_str):
-# #     str = input_str.split(",")
+# #     str = input_str.split(" ")
 # #     rever_str = str[::-1]
 # #     reversed_str = ":".join(rever_str)
 # #     return reversed_str
