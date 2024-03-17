@@ -33,7 +33,7 @@ class Account():
     def deposit(self, def_amt):
         self.balance += def_amt
         print(f"Added {def_amt} to the balance")
-
+ 
     def withdrawal(self, wd_amt):
         if self.balance >= wd_amt:
             self.balance -= wd_amt
